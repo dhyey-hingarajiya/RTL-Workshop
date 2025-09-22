@@ -104,6 +104,7 @@ Finally, open the generated `.vcd` file with GTKWave to view the waveforms.
 ```bash
 gtkwave tb_good_mux.vcd
 ```
+![Observed Waveform](./assets/Lab2%20waveform.png)
 ### Code Breakdown
 * **The Design**(`good_mux.v`): This file defines a simple 2-to-1 multiplexer. Based on the `sel` line, it routes one of the two inputs (`i0` or `i1`) to the output `y`.
 * **The Testbench**(`tb_good_mux.v`): This file is responsible for testing the multiplexer. It instantiates the `good_mux` design, generates a **stimulus** by toggling the input signals over time, sets up the VCD file generation for waveform viewing, and controls the total simulation runtime.
