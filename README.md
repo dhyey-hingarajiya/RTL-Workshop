@@ -31,7 +31,7 @@ This table provides a high-level overview of my progress through the program. Ea
 
 | Day | Focus Topic | Status |
 | :--- | :--- | :--- |
-| **Day 1** | [Introduction to Verilog RTL design and Synthesis](./Day1) | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge) |
+| **Day 1** | [Introduction to Verilog RTL design and Synthesis](./Day%201) | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge) |
 | **Day 2** | ... | ![Status](https://img.shields.io/badge/Status-Pending-lightgrey?style=for-the-badge) |
 
 ---
