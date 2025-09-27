@@ -6,7 +6,7 @@
 ![VSD](https://img.shields.io/badge/VSDIAT-Program-orange?style=for-the-badge)
 <br>
 ![Week](https://img.shields.io/badge/Week-1-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Pending-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 
 </div>
@@ -32,7 +32,10 @@ This table provides a high-level overview of my progress through the program. Ea
 | Day | Focus Topic | Status |
 | :--- | :--- | :--- |
 | **Day 1** | [Introduction to Verilog RTL design and Synthesis](./Day%201) | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge) |
-| **Day 2** | ... | ![Status](https://img.shields.io/badge/Status-Pending-lightgrey?style=for-the-badge) |
+| **Day 2** | [Timing Libs, Hierarchical vs Flat Synthesis and Efficient Flop Coding Styles](./Day%202) | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge) |
+| **Day 3** | [Combinational and Sequential Optimizations](./Day%203) | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge) |
+| **Day 4** | [Gate Level Simulation and Synthesis-Simulation Mismatch](./Day%204) | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge) |
+| **Day 5** | [Optimization in Synthesis](./Day%205) | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge) |
 
 ---
 ## 🙏 Acknowledgment
