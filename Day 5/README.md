@@ -1,4 +1,4 @@
-# Verilog Conditional Logic: If-Else and Inferred Latches
+# Optimization in Synthesis
 
 ## If-Else Statements
 
